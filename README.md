@@ -1,10 +1,6 @@
 Hi 👋
 ======================
 
-* 🖥️  [See my portfolio](https://cryptic-vader.web.app)
-* ✉️  You can contact me at [crypticvader@duck.com](mailto:crypticvader@duck.com)
-* 🧠  I'm learning Dart + Flutter
-
 ### Skills
 
 <p align="left">
